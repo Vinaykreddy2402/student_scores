@@ -14,3 +14,7 @@ To access your flask application open new tab in and paste the url:
 ```
 https://{your_url}.ineuron.app:5000/
 ```
+This is my project that I developed in Neurolab
+```
+Hii Welcome to my Project
+```# student_scores
